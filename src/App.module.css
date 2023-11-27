@@ -1,0 +1,23 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+}
+
+.inputContainer {
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.inputContainer input {
+    margin-right: 10px;
+}
+
+.inputContainer button {
+    background-color: #008000;
+    color: #ffffff;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+}
